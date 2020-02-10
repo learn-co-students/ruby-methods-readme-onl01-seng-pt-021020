@@ -14,5 +14,4 @@ puts phrase
 def hello_ten_times
   phrase = "Hello World"
   puts "Hello World"
-  answer = "< fill in your answer here >"
-puts "A group of flamingos is called a #{answer}."
+  
