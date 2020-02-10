@@ -11,3 +11,7 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
+def hello_ten_times
+  phrase = "Hello World"
+  puts "Hello World"
+  
