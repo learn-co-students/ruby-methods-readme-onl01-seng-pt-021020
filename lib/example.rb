@@ -11,3 +11,11 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
+
+
+  phrase = "Hi world!"
+  puts phrase
+  puts phrase
+  puts phrase
+  puts phrase
+end
