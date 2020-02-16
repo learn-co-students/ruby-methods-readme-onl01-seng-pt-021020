@@ -1,1 +1,3 @@
-touch greeting.rb
+$ touch greeting.rb
+Hello World
+$
